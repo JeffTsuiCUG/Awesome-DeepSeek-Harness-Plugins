@@ -320,6 +320,7 @@
 | [dsh-selection-memory](https://github.com/niushuanan/dsh-selection-memory) | 提供需源码合入的 DSH 扩展，可引用、讨论或记住所选会话文本，并维护可分别编辑的用户与 AI 记忆库。 | [![GitHub stars](https://img.shields.io/github/stars/niushuanan/dsh-selection-memory?style=flat&label=stars)](https://github.com/niushuanan/dsh-selection-memory/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
 | [dsh-context-compressor](https://github.com/qwert702/dsh-context-compressor) | 压缩当前对话，在同一工作区新建会话，并将摘要注入为起始上下文。 | [![GitHub stars](https://img.shields.io/github/stars/qwert702/dsh-context-compressor?style=flat&label=stars)](https://github.com/qwert702/dsh-context-compressor/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
 | [dsh-context-tree](https://github.com/wr-web/dsh-context-tree) | 为 DSH 增加轨迹树视图，支持精确回合分叉、可复用上下文节点、有界跨会话词法召回与注入来源日志。 | [![GitHub stars](https://img.shields.io/github/stars/wr-web/dsh-context-tree?style=flat&label=stars)](https://github.com/wr-web/dsh-context-tree/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
+| [dsh-sieve](https://github.com/Sev7eEn7/sieve) | 为 DSH 0.2.1-alpha.1 过滤工具输出、裁剪陈旧上下文并按需披露技能。 | [![GitHub stars](https://img.shields.io/github/stars/Sev7eEn7/sieve?style=flat&label=stars)](https://github.com/Sev7eEn7/sieve/stargazers) | <details><summary>0 个页面</summary><sub>暂无已核验引用。</sub></details> |
 
 ## 循环与调度
 
