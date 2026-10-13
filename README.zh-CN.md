@@ -882,6 +882,7 @@
 | [dsh-plugin-kit](https://github.com/PerryLink/dsh-plugin-kit) | 为 DSH 插件作者提供可复用 Provider 接缝、失败即关闭门控、验证脚本与共享工具模块。 | [![GitHub stars](https://img.shields.io/github/stars/PerryLink/dsh-plugin-kit?style=flat&label=stars)](https://github.com/PerryLink/dsh-plugin-kit/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
 | [dsh-plugin-upgrade-015](https://github.com/PerryLink/dsh-plugin-upgrade-015) | 打包锁定版本的 DSH 插件迁移技能与接缝扫描器，覆盖 0.1.3-alpha.1 到 0.1.5-rc.1 的升级路径。 | [![GitHub stars](https://img.shields.io/github/stars/PerryLink/dsh-plugin-upgrade-015?style=flat&label=stars)](https://github.com/PerryLink/dsh-plugin-upgrade-015/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
 | [deepseek-harness-usage](https://github.com/syncended/deepseek-harness-usage) | 从本地会话记录生成 DSH 用量看板，展示 Token、模型估算成本、趋势与活动热力图，并支持价格覆盖。 | [![GitHub stars](https://img.shields.io/github/stars/syncended/deepseek-harness-usage?style=flat&label=stars)](https://github.com/syncended/deepseek-harness-usage/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
+| [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) | 记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。 | [![GitHub stars](https://img.shields.io/github/stars/skyjjgw/dsh-version-guard?style=flat&label=stars)](https://github.com/skyjjgw/dsh-version-guard/stargazers) | <details><summary>0 pages</summary><sub>No verified references yet.</sub></details> |
 
 ## 贡献
 
